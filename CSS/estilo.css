@@ -1,5 +1,14 @@
 body {
   background-color: #949494;
+  color: black;
+}
+
+h1 {
+  color: #949494;
+}
+
+h2 {
+  color: white;
 }
 
 p {
