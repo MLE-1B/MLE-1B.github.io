@@ -1,18 +1,11 @@
 body {
   background-color: #949494;
   color: black;
-  
+  margin-right: 1000px;
 }
 
 h1 {
   color: #949494;
-}
-
-
-p {
-  margin-top: 50px;
-  margin-right: 1000px;
-  margin-left: 50px;
 }
 
 <style>
