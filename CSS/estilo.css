@@ -14,6 +14,11 @@ h2 {
   margin-top: 30px;
 }
 
+h2 {
+  color: Black
+  font-size: 30px;
+}
+
 p {
   margin-right: 1000px;
 }
