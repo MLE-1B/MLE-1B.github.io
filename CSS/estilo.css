@@ -10,11 +10,16 @@ h1 {
 
 h2 {
   color: #00F6FF
-  font-size: 40px;
+  font-size: 55px;
   margin-top: 30px;
 }
 
 h3 {
+  color: Black
+  font-size: 35px;
+}
+
+h4 {
   color: Black
   font-size: 30px;
 }
