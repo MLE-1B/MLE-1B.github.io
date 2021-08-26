@@ -3,23 +3,23 @@ body {
 }
 
 h1 {
-  font-size: 100%;
+  font-size: 70px;
 }
 
 h2 {
   color: #00F6FF
-  font-size: 55px;
+  font-size: 60px;
   margin-top: 30px;
 }
 
 h3 {
   color: Black
-  font-size: 35px;
+  font-size: 45px;
 }
 
 h4 {
   color: Black
-  font-size: 30px;
+  font-size: 40px;
 }
 
 p {
