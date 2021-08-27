@@ -3,28 +3,24 @@ body {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 50px;
 }
 
 h2 {
-  color: #00F6FF
-  font-size: 60px;
-  margin-top: 30px;
+  font-size: 40px;
 }
 
 h3 {
-  color: Black
-  font-size: 45px;
+  font-size: 35px;
 }
 
 h4 {
-  color: Black
-  font-size: 40px;
+  font-size: 35px;
 }
 
 p {
   margin-right: 2%;
-   font-size: 27px;
+   font-size: 30px;
 }
 
 <style>
